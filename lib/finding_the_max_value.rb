@@ -9,3 +9,12 @@
 #   end 
 #   max_value
 # end
+
+def find_max_value(array)
+  max_value = 0 
+  index = 0 
+  while index < array.length do 
+    
+  end
+  max_value
+end
